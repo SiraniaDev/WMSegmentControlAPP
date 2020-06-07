@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "163883b02249acf5c50578372198eda0"
+build_time: [1591528936, 202816000]
+inputs:
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/WMSegmentControlAPP/ViewController.swift": [1591527495, 435502646]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/WMSegmentControlAPP/AppDelegate.swift": [1591507289, 373638486]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/WMSegmentControlAPP/SceneDelegate.swift": [1591507289, 384247370]

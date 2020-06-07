@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "ff98d59d385893c43dc25fde22476b63"
+build_time: [1591528971, 880561000]
+inputs:
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl.swift": [1591510506, 750756967]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControlSegment.swift": [1591510506, 756945375]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/BetterSegmentedControl/Pod/Classes/Segments/IconSegment.swift": [1591510506, 758080085]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/BetterSegmentedControl/Pod/Classes/Segments/LabelSegment.swift": [1591510506, 758886519]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/BetterSegmentedControl/Pod/Classes/Options.swift": [1591510506, 750394526]

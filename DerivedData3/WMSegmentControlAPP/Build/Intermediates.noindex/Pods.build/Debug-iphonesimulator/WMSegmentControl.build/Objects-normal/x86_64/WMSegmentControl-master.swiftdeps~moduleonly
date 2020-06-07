@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "9479567cccaa96d58be8d118b08c2f73"
+build_time: [1591528927, 820196000]
+inputs:
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/WMSegmentControl/WMSegmentControl/Source/WMSegment.swift": [1591507413, 692093883]

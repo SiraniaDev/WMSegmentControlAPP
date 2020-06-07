@@ -5,6 +5,177 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>261F6A91-9361-4D38-8D01-B5EA5ECF932D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>261F6A91-9361-4D38-8D01-B5EA5ECF932D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WMSegmentControlAPP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WMSegmentControlAPP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>timeStartedRecording</key>
+			<real>613222017.62608898</real>
+			<key>timeStoppedRecording</key>
+			<real>613222266.01973104</real>
+			<key>title</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>uniqueIdentifier</key>
+			<string>261F6A91-9361-4D38-8D01-B5EA5ECF932D</string>
+		</dict>
+		<key>2B4889D9-5047-4D6A-A84B-E3AA75EA5B47</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2B4889D9-5047-4D6A-A84B-E3AA75EA5B47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WMSegmentControlAPP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WMSegmentControlAPP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>timeStartedRecording</key>
+			<real>613221984.65259302</real>
+			<key>timeStoppedRecording</key>
+			<real>613222016.31062305</real>
+			<key>title</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>uniqueIdentifier</key>
+			<string>2B4889D9-5047-4D6A-A84B-E3AA75EA5B47</string>
+		</dict>
+		<key>47EF5720-BAE4-4DFD-A454-67772CA77B8D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>47EF5720-BAE4-4DFD-A454-67772CA77B8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WMSegmentControlAPP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WMSegmentControlAPP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>timeStartedRecording</key>
+			<real>613221743.07445705</real>
+			<key>timeStoppedRecording</key>
+			<real>613221766.44956303</real>
+			<key>title</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>uniqueIdentifier</key>
+			<string>47EF5720-BAE4-4DFD-A454-67772CA77B8D</string>
+		</dict>
+		<key>5E0C93BD-A45B-4A8B-AA5A-C7BD497A3150</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5E0C93BD-A45B-4A8B-AA5A-C7BD497A3150.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WMSegmentControlAPP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WMSegmentControlAPP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>timeStartedRecording</key>
+			<real>613221904.98724902</real>
+			<key>timeStoppedRecording</key>
+			<real>613221962.95755994</real>
+			<key>title</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>uniqueIdentifier</key>
+			<string>5E0C93BD-A45B-4A8B-AA5A-C7BD497A3150</string>
+		</dict>
+		<key>77ED781C-5402-481C-95BC-5A30870AC6E8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>77ED781C-5402-481C-95BC-5A30870AC6E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WMSegmentControlAPP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WMSegmentControlAPP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>timeStartedRecording</key>
+			<real>613221805.82023203</real>
+			<key>timeStoppedRecording</key>
+			<real>613221903.06064403</real>
+			<key>title</key>
+			<string>Debug WMSegmentControlAPP</string>
+			<key>uniqueIdentifier</key>
+			<string>77ED781C-5402-481C-95BC-5A30870AC6E8</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

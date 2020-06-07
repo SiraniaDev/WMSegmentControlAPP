@@ -1,0 +1,6 @@
+module Pods_WMSegmentControlAPP {
+  umbrella header "Pods-WMSegmentControlAPP-umbrella.h"
+
+  export *
+  module * { export * }
+}

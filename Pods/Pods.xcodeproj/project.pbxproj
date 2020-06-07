@@ -1,0 +1,739 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		002D4C850C56DAD25D742520A06E619D /* BetterSegmentedControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A52B169447E47CC208827A8286C45611 /* BetterSegmentedControl-dummy.m */; };
+		2BF05D53D5276A8EE6A06AE8CE13D6A3 /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFE6E7FFCD81B41C426E9C7B5E2C338 /* Options.swift */; };
+		3A26426303CFC7989DD554F23209D361 /* Pods-WMSegmentControlAPP-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 968C199EFB084433509906CAC12418AB /* Pods-WMSegmentControlAPP-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3B985E4C1812D1858C2A466352EC24C0 /* WMSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCC18E64F8AC2EF615DE63BA1EE0C7BA /* WMSegment.swift */; };
+		54D2EE8846E71082195BDFE3E45CE327 /* BetterSegmentedControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D905FA876811CB57C8F5210F0CBA87A /* BetterSegmentedControl-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		5824046CF841AF1032AAB63E71DF7D6E /* Pods-WMSegmentControlAPP-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F13116B79D228426278BD26F7EEFC7B /* Pods-WMSegmentControlAPP-dummy.m */; };
+		7CCB9B42078B637ECCC6B719C8026CA6 /* BetterSegmentedControlSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180EB914B86B7264B610EA7653D3A079 /* BetterSegmentedControlSegment.swift */; };
+		874915EEFE13BBC7C011EF102666840C /* LabelSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF7F9F550E176217B9233F175ECB054 /* LabelSegment.swift */; };
+		87852A8F5A792D7755EA940021EB3108 /* BetterSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6DA3C98ED6078575DEA4EFC0BCB1EB /* BetterSegmentedControl.swift */; };
+		8BB70FA238388E4B81398F6A1167C43F /* WMSegmentControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B4EBB5FE2353793B36B8C7FC5D3DCCA /* WMSegmentControl-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		99D24402B7CAA2ACF91049F7499DB647 /* WMSegmentControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB9F8FF8FD142E5313952B88F36BCE6A /* WMSegmentControl-dummy.m */; };
+		BECABA4680DBE0FE8BBD81E10E139814 /* IconSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC1A0491B3E62C80889CA0BC2F3CD74 /* IconSegment.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0B3124122EB580803D65732268C53672 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1A3EF8D30112DE7B1FA58F00BCE70F79;
+			remoteInfo = WMSegmentControl;
+		};
+		CF33EF7FA99EC19C04425235E71F94D3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FFA0A1DD066506A523D6C9452B9CD06B;
+			remoteInfo = BetterSegmentedControl;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		041FCCF9F745F2E6ACB1D432D5C8F1F6 /* WMSegmentControl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WMSegmentControl.debug.xcconfig; sourceTree = "<group>"; };
+		0971B0AFD3BCBB672F48342DD0F5E060 /* libBetterSegmentedControl.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libBetterSegmentedControl.a; path = libBetterSegmentedControl.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		0B4EBB5FE2353793B36B8C7FC5D3DCCA /* WMSegmentControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WMSegmentControl-umbrella.h"; sourceTree = "<group>"; };
+		0F13116B79D228426278BD26F7EEFC7B /* Pods-WMSegmentControlAPP-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WMSegmentControlAPP-dummy.m"; sourceTree = "<group>"; };
+		12F5BDC21C625C33911181E3E8017C08 /* BetterSegmentedControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BetterSegmentedControl.modulemap; sourceTree = "<group>"; };
+		180EB914B86B7264B610EA7653D3A079 /* BetterSegmentedControlSegment.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BetterSegmentedControlSegment.swift; path = Pod/Classes/BetterSegmentedControlSegment.swift; sourceTree = "<group>"; };
+		259AE3F4DD408F678145D11A061299D4 /* BetterSegmentedControl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BetterSegmentedControl.debug.xcconfig; sourceTree = "<group>"; };
+		271277D880E672DA84A330D834C16803 /* Pods-WMSegmentControlAPP-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WMSegmentControlAPP-acknowledgements.plist"; sourceTree = "<group>"; };
+		2788F2518B447C987A5D314401844A85 /* libPods-WMSegmentControlAPP.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-WMSegmentControlAPP.a"; path = "libPods-WMSegmentControlAPP.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BCDE1953C51A288B0A8D5412186EE93 /* libWMSegmentControl.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWMSegmentControl.a; path = libWMSegmentControl.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		30DD32E9849719501E41842D7D7E59A8 /* WMSegmentControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WMSegmentControl-prefix.pch"; sourceTree = "<group>"; };
+		3D905FA876811CB57C8F5210F0CBA87A /* BetterSegmentedControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BetterSegmentedControl-umbrella.h"; sourceTree = "<group>"; };
+		5AF7F9F550E176217B9233F175ECB054 /* LabelSegment.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LabelSegment.swift; path = Pod/Classes/Segments/LabelSegment.swift; sourceTree = "<group>"; };
+		644F19BDDBBE461C2DF13FAF668558BE /* WMSegmentControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WMSegmentControl.modulemap; sourceTree = "<group>"; };
+		79D02F6DEEA1554A9581A7E7FC2A27DA /* Pods-WMSegmentControlAPP-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WMSegmentControlAPP-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8489FF4DBE297A0B427C05B15B8D925D /* WMSegmentControl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WMSegmentControl.release.xcconfig; sourceTree = "<group>"; };
+		897C8B7D0330CC49BA4664AB6F86D058 /* Pods-WMSegmentControlAPP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WMSegmentControlAPP.debug.xcconfig"; sourceTree = "<group>"; };
+		968C199EFB084433509906CAC12418AB /* Pods-WMSegmentControlAPP-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WMSegmentControlAPP-umbrella.h"; sourceTree = "<group>"; };
+		9A2802F622C81E6A3BD2DF255747934A /* Pods-WMSegmentControlAPP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WMSegmentControlAPP.release.xcconfig"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A52B169447E47CC208827A8286C45611 /* BetterSegmentedControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BetterSegmentedControl-dummy.m"; sourceTree = "<group>"; };
+		C6C0180F84D61FB2D65CC943E7F0913E /* Pods-WMSegmentControlAPP.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WMSegmentControlAPP.modulemap"; sourceTree = "<group>"; };
+		CBF89FA2F8C3257922DC6589DD3691D9 /* BetterSegmentedControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BetterSegmentedControl-prefix.pch"; sourceTree = "<group>"; };
+		CCC18E64F8AC2EF615DE63BA1EE0C7BA /* WMSegment.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WMSegment.swift; path = WMSegmentControl/Source/WMSegment.swift; sourceTree = "<group>"; };
+		D6DFED41D8B7CA70D37DB63D4261641A /* BetterSegmentedControl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BetterSegmentedControl.release.xcconfig; sourceTree = "<group>"; };
+		EA6DA3C98ED6078575DEA4EFC0BCB1EB /* BetterSegmentedControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BetterSegmentedControl.swift; path = Pod/Classes/BetterSegmentedControl.swift; sourceTree = "<group>"; };
+		EB9F8FF8FD142E5313952B88F36BCE6A /* WMSegmentControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WMSegmentControl-dummy.m"; sourceTree = "<group>"; };
+		FEC1A0491B3E62C80889CA0BC2F3CD74 /* IconSegment.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IconSegment.swift; path = Pod/Classes/Segments/IconSegment.swift; sourceTree = "<group>"; };
+		FFFE6E7FFCD81B41C426E9C7B5E2C338 /* Options.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Options.swift; path = Pod/Classes/Options.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		23DE5EB815EAAD7A34BBEE7D681C8CA9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F5873552C7E8C547E2D9988D45DA6129 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9EE58EFFAA19BFC5B341A06DAC2002E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		042721C115A30F5B66BFE4E60B0BE153 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BD526E0F55C6F0E43016F87F09C702E8 /* BetterSegmentedControl */,
+				1FE1BAA0E0A1E75D1B9AB6553481C518 /* WMSegmentControl */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		043B0F85CD5E33F65C3F0883BAFF2EF0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0971B0AFD3BCBB672F48342DD0F5E060 /* libBetterSegmentedControl.a */,
+				2788F2518B447C987A5D314401844A85 /* libPods-WMSegmentControlAPP.a */,
+				2BCDE1953C51A288B0A8D5412186EE93 /* libWMSegmentControl.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		12A72DF6A5794EAF301E75E7FC017320 /* Pods-WMSegmentControlAPP */ = {
+			isa = PBXGroup;
+			children = (
+				C6C0180F84D61FB2D65CC943E7F0913E /* Pods-WMSegmentControlAPP.modulemap */,
+				79D02F6DEEA1554A9581A7E7FC2A27DA /* Pods-WMSegmentControlAPP-acknowledgements.markdown */,
+				271277D880E672DA84A330D834C16803 /* Pods-WMSegmentControlAPP-acknowledgements.plist */,
+				0F13116B79D228426278BD26F7EEFC7B /* Pods-WMSegmentControlAPP-dummy.m */,
+				968C199EFB084433509906CAC12418AB /* Pods-WMSegmentControlAPP-umbrella.h */,
+				897C8B7D0330CC49BA4664AB6F86D058 /* Pods-WMSegmentControlAPP.debug.xcconfig */,
+				9A2802F622C81E6A3BD2DF255747934A /* Pods-WMSegmentControlAPP.release.xcconfig */,
+			);
+			name = "Pods-WMSegmentControlAPP";
+			path = "Target Support Files/Pods-WMSegmentControlAPP";
+			sourceTree = "<group>";
+		};
+		1FE1BAA0E0A1E75D1B9AB6553481C518 /* WMSegmentControl */ = {
+			isa = PBXGroup;
+			children = (
+				CCC18E64F8AC2EF615DE63BA1EE0C7BA /* WMSegment.swift */,
+				B6ECBAD4903673E9D85BD3EAA31D30BD /* Support Files */,
+			);
+			name = WMSegmentControl;
+			path = WMSegmentControl;
+			sourceTree = "<group>";
+		};
+		698C0DBFEF4262363FD51FFC787C21A4 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				12F5BDC21C625C33911181E3E8017C08 /* BetterSegmentedControl.modulemap */,
+				A52B169447E47CC208827A8286C45611 /* BetterSegmentedControl-dummy.m */,
+				CBF89FA2F8C3257922DC6589DD3691D9 /* BetterSegmentedControl-prefix.pch */,
+				3D905FA876811CB57C8F5210F0CBA87A /* BetterSegmentedControl-umbrella.h */,
+				259AE3F4DD408F678145D11A061299D4 /* BetterSegmentedControl.debug.xcconfig */,
+				D6DFED41D8B7CA70D37DB63D4261641A /* BetterSegmentedControl.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/BetterSegmentedControl";
+			sourceTree = "<group>";
+		};
+		B6ECBAD4903673E9D85BD3EAA31D30BD /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				644F19BDDBBE461C2DF13FAF668558BE /* WMSegmentControl.modulemap */,
+				EB9F8FF8FD142E5313952B88F36BCE6A /* WMSegmentControl-dummy.m */,
+				30DD32E9849719501E41842D7D7E59A8 /* WMSegmentControl-prefix.pch */,
+				0B4EBB5FE2353793B36B8C7FC5D3DCCA /* WMSegmentControl-umbrella.h */,
+				041FCCF9F745F2E6ACB1D432D5C8F1F6 /* WMSegmentControl.debug.xcconfig */,
+				8489FF4DBE297A0B427C05B15B8D925D /* WMSegmentControl.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/WMSegmentControl";
+			sourceTree = "<group>";
+		};
+		BD526E0F55C6F0E43016F87F09C702E8 /* BetterSegmentedControl */ = {
+			isa = PBXGroup;
+			children = (
+				EA6DA3C98ED6078575DEA4EFC0BCB1EB /* BetterSegmentedControl.swift */,
+				180EB914B86B7264B610EA7653D3A079 /* BetterSegmentedControlSegment.swift */,
+				FEC1A0491B3E62C80889CA0BC2F3CD74 /* IconSegment.swift */,
+				5AF7F9F550E176217B9233F175ECB054 /* LabelSegment.swift */,
+				FFFE6E7FFCD81B41C426E9C7B5E2C338 /* Options.swift */,
+				698C0DBFEF4262363FD51FFC787C21A4 /* Support Files */,
+			);
+			name = BetterSegmentedControl;
+			path = BetterSegmentedControl;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
+				042721C115A30F5B66BFE4E60B0BE153 /* Pods */,
+				043B0F85CD5E33F65C3F0883BAFF2EF0 /* Products */,
+				F012B212A14CD8EDB1357E1A358B1405 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F012B212A14CD8EDB1357E1A358B1405 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				12A72DF6A5794EAF301E75E7FC017320 /* Pods-WMSegmentControlAPP */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		35397D3D4DDE7220884A0B44258AB8FF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BB70FA238388E4B81398F6A1167C43F /* WMSegmentControl-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E5A7D482D9A8020B7CD6E0371CCA911 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				54D2EE8846E71082195BDFE3E45CE327 /* BetterSegmentedControl-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FFF09ECABED4BCE9BD47A51942F02CA5 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A26426303CFC7989DD554F23209D361 /* Pods-WMSegmentControlAPP-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		1A3EF8D30112DE7B1FA58F00BCE70F79 /* WMSegmentControl */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8F5AABE063AFAA5EBF0A4228BF423EF8 /* Build configuration list for PBXNativeTarget "WMSegmentControl" */;
+			buildPhases = (
+				35397D3D4DDE7220884A0B44258AB8FF /* Headers */,
+				FDD0053BB153CB1B97651CCBCAECAC40 /* Sources */,
+				F5873552C7E8C547E2D9988D45DA6129 /* Frameworks */,
+				4A631633EE67C665B355F96D867CBFB8 /* Copy generated compatibility header */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WMSegmentControl;
+			productName = WMSegmentControl;
+			productReference = 2BCDE1953C51A288B0A8D5412186EE93 /* libWMSegmentControl.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		ECAC1C942D4C9B6C195FC7311B281E0F /* Pods-WMSegmentControlAPP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 90C8298FC36A01580C5A4FEF90804CD5 /* Build configuration list for PBXNativeTarget "Pods-WMSegmentControlAPP" */;
+			buildPhases = (
+				FFF09ECABED4BCE9BD47A51942F02CA5 /* Headers */,
+				5E8B50BB9584CB9C9CC8ACC1D6B3D660 /* Sources */,
+				F9EE58EFFAA19BFC5B341A06DAC2002E /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8D60D4B92A2A96F3FA49FCF9F0682AFC /* PBXTargetDependency */,
+				EC1D36C36A0157A8F7EFAC1194FFACC8 /* PBXTargetDependency */,
+			);
+			name = "Pods-WMSegmentControlAPP";
+			productName = "Pods-WMSegmentControlAPP";
+			productReference = 2788F2518B447C987A5D314401844A85 /* libPods-WMSegmentControlAPP.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		FFA0A1DD066506A523D6C9452B9CD06B /* BetterSegmentedControl */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F09CC3F716D4AD6DC56FB8F8374A2296 /* Build configuration list for PBXNativeTarget "BetterSegmentedControl" */;
+			buildPhases = (
+				6E5A7D482D9A8020B7CD6E0371CCA911 /* Headers */,
+				D5E1D949ED5E08C7AF862611553DC3E7 /* Sources */,
+				23DE5EB815EAAD7A34BBEE7D681C8CA9 /* Frameworks */,
+				4FF24FB95ECBC3897B91D0394A989897 /* Copy generated compatibility header */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BetterSegmentedControl;
+			productName = BetterSegmentedControl;
+			productReference = 0971B0AFD3BCBB672F48342DD0F5E060 /* libBetterSegmentedControl.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = 043B0F85CD5E33F65C3F0883BAFF2EF0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FFA0A1DD066506A523D6C9452B9CD06B /* BetterSegmentedControl */,
+				ECAC1C942D4C9B6C195FC7311B281E0F /* Pods-WMSegmentControlAPP */,
+				1A3EF8D30112DE7B1FA58F00BCE70F79 /* WMSegmentControl */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4A631633EE67C665B355F96D867CBFB8 /* Copy generated compatibility header */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${DERIVED_SOURCES_DIR}/${PRODUCT_MODULE_NAME}-Swift.h",
+				"${PODS_ROOT}/Headers/Public/WMSegmentControl/WMSegmentControl.modulemap",
+				"${PODS_ROOT}/Headers/Public/WMSegmentControl/WMSegmentControl-umbrella.h",
+			);
+			name = "Copy generated compatibility header";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${BUILT_PRODUCTS_DIR}/${PRODUCT_MODULE_NAME}.modulemap",
+				"${BUILT_PRODUCTS_DIR}/WMSegmentControl-umbrella.h",
+				"${BUILT_PRODUCTS_DIR}/Swift Compatibility Header/${PRODUCT_MODULE_NAME}-Swift.h",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "COMPATIBILITY_HEADER_PATH=\"${BUILT_PRODUCTS_DIR}/Swift Compatibility Header/${PRODUCT_MODULE_NAME}-Swift.h\"\nMODULE_MAP_PATH=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_MODULE_NAME}.modulemap\"\n\nditto \"${DERIVED_SOURCES_DIR}/${PRODUCT_MODULE_NAME}-Swift.h\" \"${COMPATIBILITY_HEADER_PATH}\"\nditto \"${PODS_ROOT}/Headers/Public/WMSegmentControl/WMSegmentControl.modulemap\" \"${MODULE_MAP_PATH}\"\nditto \"${PODS_ROOT}/Headers/Public/WMSegmentControl/WMSegmentControl-umbrella.h\" \"${BUILT_PRODUCTS_DIR}\"\nprintf \"\\n\\nmodule ${PRODUCT_MODULE_NAME}.Swift {\\n  header \\\"${COMPATIBILITY_HEADER_PATH}\\\"\\n  requires objc\\n}\\n\" >> \"${MODULE_MAP_PATH}\"\n";
+		};
+		4FF24FB95ECBC3897B91D0394A989897 /* Copy generated compatibility header */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${DERIVED_SOURCES_DIR}/${PRODUCT_MODULE_NAME}-Swift.h",
+				"${PODS_ROOT}/Headers/Public/BetterSegmentedControl/BetterSegmentedControl.modulemap",
+				"${PODS_ROOT}/Headers/Public/BetterSegmentedControl/BetterSegmentedControl-umbrella.h",
+			);
+			name = "Copy generated compatibility header";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${BUILT_PRODUCTS_DIR}/${PRODUCT_MODULE_NAME}.modulemap",
+				"${BUILT_PRODUCTS_DIR}/BetterSegmentedControl-umbrella.h",
+				"${BUILT_PRODUCTS_DIR}/Swift Compatibility Header/${PRODUCT_MODULE_NAME}-Swift.h",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "COMPATIBILITY_HEADER_PATH=\"${BUILT_PRODUCTS_DIR}/Swift Compatibility Header/${PRODUCT_MODULE_NAME}-Swift.h\"\nMODULE_MAP_PATH=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_MODULE_NAME}.modulemap\"\n\nditto \"${DERIVED_SOURCES_DIR}/${PRODUCT_MODULE_NAME}-Swift.h\" \"${COMPATIBILITY_HEADER_PATH}\"\nditto \"${PODS_ROOT}/Headers/Public/BetterSegmentedControl/BetterSegmentedControl.modulemap\" \"${MODULE_MAP_PATH}\"\nditto \"${PODS_ROOT}/Headers/Public/BetterSegmentedControl/BetterSegmentedControl-umbrella.h\" \"${BUILT_PRODUCTS_DIR}\"\nprintf \"\\n\\nmodule ${PRODUCT_MODULE_NAME}.Swift {\\n  header \\\"${COMPATIBILITY_HEADER_PATH}\\\"\\n  requires objc\\n}\\n\" >> \"${MODULE_MAP_PATH}\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5E8B50BB9584CB9C9CC8ACC1D6B3D660 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5824046CF841AF1032AAB63E71DF7D6E /* Pods-WMSegmentControlAPP-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D5E1D949ED5E08C7AF862611553DC3E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				002D4C850C56DAD25D742520A06E619D /* BetterSegmentedControl-dummy.m in Sources */,
+				87852A8F5A792D7755EA940021EB3108 /* BetterSegmentedControl.swift in Sources */,
+				7CCB9B42078B637ECCC6B719C8026CA6 /* BetterSegmentedControlSegment.swift in Sources */,
+				BECABA4680DBE0FE8BBD81E10E139814 /* IconSegment.swift in Sources */,
+				874915EEFE13BBC7C011EF102666840C /* LabelSegment.swift in Sources */,
+				2BF05D53D5276A8EE6A06AE8CE13D6A3 /* Options.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDD0053BB153CB1B97651CCBCAECAC40 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B985E4C1812D1858C2A466352EC24C0 /* WMSegment.swift in Sources */,
+				99D24402B7CAA2ACF91049F7499DB647 /* WMSegmentControl-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8D60D4B92A2A96F3FA49FCF9F0682AFC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = BetterSegmentedControl;
+			target = FFA0A1DD066506A523D6C9452B9CD06B /* BetterSegmentedControl */;
+			targetProxy = CF33EF7FA99EC19C04425235E71F94D3 /* PBXContainerItemProxy */;
+		};
+		EC1D36C36A0157A8F7EFAC1194FFACC8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = WMSegmentControl;
+			target = 1A3EF8D30112DE7B1FA58F00BCE70F79 /* WMSegmentControl */;
+			targetProxy = 0B3124122EB580803D65732268C53672 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1D931DD5926F4DF626EDA63A532A1974 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A2802F622C81E6A3BD2DF255747934A /* Pods-WMSegmentControlAPP.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WMSegmentControlAPP/Pods-WMSegmentControlAPP.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3FCD7E571AAA313356204CCA75FBC06B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 259AE3F4DD408F678145D11A061299D4 /* BetterSegmentedControl.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/BetterSegmentedControl/BetterSegmentedControl-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MODULEMAP_FILE = Headers/Public/BetterSegmentedControl/BetterSegmentedControl.modulemap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = BetterSegmentedControl;
+				PRODUCT_NAME = BetterSegmentedControl;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4FDC43D4F2FAD034CA96AA7082ACBB79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D6DFED41D8B7CA70D37DB63D4261641A /* BetterSegmentedControl.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/BetterSegmentedControl/BetterSegmentedControl-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MODULEMAP_FILE = Headers/Public/BetterSegmentedControl/BetterSegmentedControl.modulemap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = BetterSegmentedControl;
+				PRODUCT_NAME = BetterSegmentedControl;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		73AC55D2D3983D22EC9794822D7A5F0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 897C8B7D0330CC49BA4664AB6F86D058 /* Pods-WMSegmentControlAPP.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WMSegmentControlAPP/Pods-WMSegmentControlAPP.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		939F1A8F6BCEB7F9F64D9EEE50CAE014 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		B3A3591E79F085FEBC18FADD4285A4F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8489FF4DBE297A0B427C05B15B8D925D /* WMSegmentControl.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/WMSegmentControl/WMSegmentControl-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MODULEMAP_FILE = Headers/Public/WMSegmentControl/WMSegmentControl.modulemap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = WMSegmentControl;
+				PRODUCT_NAME = WMSegmentControl;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ECB437504DF805BD96CAABF97400B526 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		F8DD1A3F8E369FA382C43FE682C18C04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 041FCCF9F745F2E6ACB1D432D5C8F1F6 /* WMSegmentControl.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/WMSegmentControl/WMSegmentControl-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MODULEMAP_FILE = Headers/Public/WMSegmentControl/WMSegmentControl.modulemap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = WMSegmentControl;
+				PRODUCT_NAME = WMSegmentControl;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				939F1A8F6BCEB7F9F64D9EEE50CAE014 /* Debug */,
+				ECB437504DF805BD96CAABF97400B526 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8F5AABE063AFAA5EBF0A4228BF423EF8 /* Build configuration list for PBXNativeTarget "WMSegmentControl" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8DD1A3F8E369FA382C43FE682C18C04 /* Debug */,
+				B3A3591E79F085FEBC18FADD4285A4F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		90C8298FC36A01580C5A4FEF90804CD5 /* Build configuration list for PBXNativeTarget "Pods-WMSegmentControlAPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73AC55D2D3983D22EC9794822D7A5F0E /* Debug */,
+				1D931DD5926F4DF626EDA63A532A1974 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F09CC3F716D4AD6DC56FB8F8374A2296 /* Build configuration list for PBXNativeTarget "BetterSegmentedControl" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3FCD7E571AAA313356204CCA75FBC06B /* Debug */,
+				4FDC43D4F2FAD034CA96AA7082ACBB79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

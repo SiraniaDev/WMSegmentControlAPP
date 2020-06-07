@@ -1,0 +1,500 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LabelSegment"
+provides-nominal:
+- "22BetterSegmentedControl12LabelSegmentC"
+provides-member:
+- ["22BetterSegmentedControl12LabelSegmentC", ""]
+- ["22BetterSegmentedControl12LabelSegmentC", "segments"]
+- ["22BetterSegmentedControl12LabelSegmentC", "segments"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "BetterSegmentedControlSegment"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "LabelSegment"
+- "String"
+- "UIColor"
+- "UIFont"
+- "UILabel"
+- "UIView"
+depends-member:
+- !private ["Sa", "map"]
+- !private ["22BetterSegmentedControl0abC7SegmentP", "DefaultValues"]
+- !private ["22BetterSegmentedControl0abC7SegmentP", "LabelSegment"]
+- ["22BetterSegmentedControl0abC7SegmentP", "UILabel"]
+- ["22BetterSegmentedControl0abC7SegmentP", ""]
+- ["22BetterSegmentedControl0abC7SegmentP", "accessibilityIdentifier"]
+- ["22BetterSegmentedControl0abC7SegmentP", "createLabel"]
+- !private ["22BetterSegmentedControl0abC7SegmentP", "init"]
+- ["22BetterSegmentedControl0abC7SegmentP", "normalBackgroundColor"]
+- ["22BetterSegmentedControl0abC7SegmentP", "normalFont"]
+- ["22BetterSegmentedControl0abC7SegmentP", "normalTextColor"]
+- ["22BetterSegmentedControl0abC7SegmentP", "normalView"]
+- !private ["22BetterSegmentedControl0abC7SegmentP", "numberOfLines"]
+- ["22BetterSegmentedControl0abC7SegmentP", "selectedBackgroundColor"]
+- ["22BetterSegmentedControl0abC7SegmentP", "selectedFont"]
+- ["22BetterSegmentedControl0abC7SegmentP", "selectedTextColor"]
+- ["22BetterSegmentedControl0abC7SegmentP", "selectedView"]
+- ["22BetterSegmentedControl0abC7SegmentP", "text"]
+- !private ["SK", "map"]
+- !private ["So15CALayerDelegateP", "accessibilityIdentifier"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- ["So15CALayerDelegateP", "font"]
+- ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "lineBreakMode"]
+- !private ["So15CALayerDelegateP", "numberOfLines"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "textAlignment"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- !private ["s7CVarArgP", "accessibilityIdentifier"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- ["s7CVarArgP", "black"]
+- ["s7CVarArgP", "clear"]
+- ["s7CVarArgP", "font"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lineBreakMode"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "numberOfLines"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textAlignment"]
+- !private ["s7CVarArgP", "textColor"]
+- ["s7CVarArgP", "white"]
+- !private ["Sl", "map"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "accessibilityIdentifier"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- ["s28CustomDebugStringConvertibleP", "clear"]
+- ["s28CustomDebugStringConvertibleP", "font"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lineBreakMode"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "numberOfLines"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textAlignment"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- ["s28CustomDebugStringConvertibleP", "white"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "accessibilityIdentifier"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- ["s23CustomStringConvertibleP", "black"]
+- ["s23CustomStringConvertibleP", "clear"]
+- ["s23CustomStringConvertibleP", "font"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lineBreakMode"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "numberOfLines"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textAlignment"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- ["s23CustomStringConvertibleP", "white"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["Se", "map"]
+- !private ["SE", "map"]
+- !private ["SQ", "accessibilityIdentifier"]
+- !private ["SQ", "backgroundColor"]
+- ["SQ", "black"]
+- !private ["SQ", "byTruncatingTail"]
+- !private ["SQ", "center"]
+- ["SQ", "clear"]
+- ["SQ", "font"]
+- ["SQ", "init"]
+- !private ["SQ", "lineBreakMode"]
+- !private ["SQ", "map"]
+- !private ["SQ", "numberOfLines"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textAlignment"]
+- !private ["SQ", "textColor"]
+- ["SQ", "white"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["SH", "accessibilityIdentifier"]
+- !private ["SH", "backgroundColor"]
+- ["SH", "black"]
+- !private ["SH", "byTruncatingTail"]
+- !private ["SH", "center"]
+- ["SH", "clear"]
+- ["SH", "font"]
+- ["SH", "init"]
+- !private ["SH", "lineBreakMode"]
+- !private ["SH", "map"]
+- !private ["SH", "numberOfLines"]
+- !private ["SH", "text"]
+- !private ["SH", "textAlignment"]
+- !private ["SH", "textColor"]
+- ["SH", "white"]
+- !private ["22BetterSegmentedControl12LabelSegmentC", "$__lazy_storage_$_normalView"]
+- !private ["22BetterSegmentedControl12LabelSegmentC", "$__lazy_storage_$_selectedView"]
+- ["22BetterSegmentedControl12LabelSegmentC", "BetterSegmentedControlSegment"]
+- !private ["22BetterSegmentedControl12LabelSegmentC", "DefaultValues"]
+- ["22BetterSegmentedControl12LabelSegmentC", "Int"]
+- !private ["22BetterSegmentedControl12LabelSegmentC", "LabelSegment"]
+- ["22BetterSegmentedControl12LabelSegmentC", "String"]
+- ["22BetterSegmentedControl12LabelSegmentC", "UIColor"]
+- ["22BetterSegmentedControl12LabelSegmentC", "UIFont"]
+- ["22BetterSegmentedControl12LabelSegmentC", "UILabel"]
+- ["22BetterSegmentedControl12LabelSegmentC", "UIView"]
+- ["22BetterSegmentedControl12LabelSegmentC", "accessibilityIdentifier"]
+- ["22BetterSegmentedControl12LabelSegmentC", "createLabel"]
+- ["22BetterSegmentedControl12LabelSegmentC", "deinit"]
+- ["22BetterSegmentedControl12LabelSegmentC", "init"]
+- ["22BetterSegmentedControl12LabelSegmentC", "normalBackgroundColor"]
+- ["22BetterSegmentedControl12LabelSegmentC", "normalFont"]
+- ["22BetterSegmentedControl12LabelSegmentC", "normalTextColor"]
+- ["22BetterSegmentedControl12LabelSegmentC", "normalView"]
+- !private ["22BetterSegmentedControl12LabelSegmentC", "numberOfLines"]
+- ["22BetterSegmentedControl12LabelSegmentC", "segments"]
+- ["22BetterSegmentedControl12LabelSegmentC", "selectedBackgroundColor"]
+- ["22BetterSegmentedControl12LabelSegmentC", "selectedFont"]
+- ["22BetterSegmentedControl12LabelSegmentC", "selectedTextColor"]
+- ["22BetterSegmentedControl12LabelSegmentC", "selectedView"]
+- ["22BetterSegmentedControl12LabelSegmentC", "text"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["So8NSCodingP", "accessibilityIdentifier"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- ["So8NSCodingP", "black"]
+- ["So8NSCodingP", "clear"]
+- ["So8NSCodingP", "font"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lineBreakMode"]
+- !private ["So8NSCodingP", "numberOfLines"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "textAlignment"]
+- !private ["So8NSCodingP", "textColor"]
+- ["So8NSCodingP", "white"]
+- ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "clear"]
+- ["So9NSCopyingP", "white"]
+- ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "clear"]
+- ["So21NSItemProviderReadingP", "white"]
+- ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "clear"]
+- ["So21NSItemProviderWritingP", "white"]
+- !private ["So15NSLineBreakModeV", "byTruncatingTail"]
+- !private ["So8NSObjectC", "accessibilityIdentifier"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "black"]
+- ["So8NSObjectC", "clear"]
+- ["So8NSObjectC", "font"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lineBreakMode"]
+- !private ["So8NSObjectC", "numberOfLines"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "textAlignment"]
+- !private ["So8NSObjectC", "textColor"]
+- ["So8NSObjectC", "white"]
+- !private ["So8NSObjectP", "accessibilityIdentifier"]
+- !private ["So8NSObjectP", "backgroundColor"]
+- ["So8NSObjectP", "black"]
+- ["So8NSObjectP", "clear"]
+- ["So8NSObjectP", "font"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lineBreakMode"]
+- !private ["So8NSObjectP", "numberOfLines"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "textAlignment"]
+- !private ["So8NSObjectP", "textColor"]
+- ["So8NSObjectP", "white"]
+- ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "clear"]
+- ["So14NSSecureCodingP", "white"]
+- !private ["So15NSTextAlignmentV", "center"]
+- !private ["Sk", "map"]
+- !private ["Sm", "map"]
+- !private ["SY", "byTruncatingTail"]
+- !private ["SY", "center"]
+- !private ["ST", "map"]
+- !private ["So29UIAccessibilityIdentificationP", "accessibilityIdentifier"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- ["So29UIAccessibilityIdentificationP", "font"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "lineBreakMode"]
+- !private ["So29UIAccessibilityIdentificationP", "numberOfLines"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "textAlignment"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So12UIAppearanceP", "accessibilityIdentifier"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- ["So12UIAppearanceP", "font"]
+- ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "lineBreakMode"]
+- !private ["So12UIAppearanceP", "numberOfLines"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "textAlignment"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "accessibilityIdentifier"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- ["So21UIAppearanceContainerP", "font"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lineBreakMode"]
+- !private ["So21UIAppearanceContainerP", "numberOfLines"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "textAlignment"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- ["So7UIColorC", "black"]
+- ["So7UIColorC", "clear"]
+- ["So7UIColorC", "white"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "accessibilityIdentifier"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "backgroundColor"]
+- ["So30UIContentSizeCategoryAdjustingP", "font"]
+- ["So30UIContentSizeCategoryAdjustingP", "init"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "lineBreakMode"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "numberOfLines"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textAlignment"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "accessibilityIdentifier"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- ["So17UICoordinateSpaceP", "font"]
+- ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "lineBreakMode"]
+- !private ["So17UICoordinateSpaceP", "numberOfLines"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "textAlignment"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So13UIDynamicItemP", "accessibilityIdentifier"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- ["So13UIDynamicItemP", "font"]
+- ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "lineBreakMode"]
+- !private ["So13UIDynamicItemP", "numberOfLines"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "textAlignment"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "accessibilityIdentifier"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- ["So18UIFocusEnvironmentP", "font"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lineBreakMode"]
+- !private ["So18UIFocusEnvironmentP", "numberOfLines"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "textAlignment"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So11UIFocusItemP", "accessibilityIdentifier"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- ["So11UIFocusItemP", "font"]
+- ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "lineBreakMode"]
+- !private ["So11UIFocusItemP", "numberOfLines"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "textAlignment"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "accessibilityIdentifier"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- ["So20UIFocusItemContainerP", "font"]
+- ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "lineBreakMode"]
+- !private ["So20UIFocusItemContainerP", "numberOfLines"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "textAlignment"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So7UILabelC", "accessibilityIdentifier"]
+- !private ["So7UILabelC", "backgroundColor"]
+- ["So7UILabelC", "font"]
+- ["So7UILabelC", "init"]
+- !private ["So7UILabelC", "lineBreakMode"]
+- !private ["So7UILabelC", "numberOfLines"]
+- !private ["So7UILabelC", "text"]
+- !private ["So7UILabelC", "textAlignment"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So24UILargeContentViewerItemP", "accessibilityIdentifier"]
+- !private ["So24UILargeContentViewerItemP", "backgroundColor"]
+- ["So24UILargeContentViewerItemP", "font"]
+- ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "lineBreakMode"]
+- !private ["So24UILargeContentViewerItemP", "numberOfLines"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So24UILargeContentViewerItemP", "textAlignment"]
+- !private ["So24UILargeContentViewerItemP", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "accessibilityIdentifier"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- ["So30UIPasteConfigurationSupportingP", "font"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lineBreakMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "numberOfLines"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "textAlignment"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So11UIResponderC", "accessibilityIdentifier"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "font"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "lineBreakMode"]
+- !private ["So11UIResponderC", "numberOfLines"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "textAlignment"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "accessibilityIdentifier"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- ["So30UIResponderStandardEditActionsP", "font"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lineBreakMode"]
+- !private ["So30UIResponderStandardEditActionsP", "numberOfLines"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "textAlignment"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- !private ["So18UITraitEnvironmentP", "accessibilityIdentifier"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- ["So18UITraitEnvironmentP", "font"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lineBreakMode"]
+- !private ["So18UITraitEnvironmentP", "numberOfLines"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "textAlignment"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "accessibilityIdentifier"]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- ["So23UIUserActivityRestoringP", "font"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "lineBreakMode"]
+- !private ["So23UIUserActivityRestoringP", "numberOfLines"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "textAlignment"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So6UIViewC", "accessibilityIdentifier"]
+- !private ["So6UIViewC", "backgroundColor"]
+- ["So6UIViewC", "font"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "lineBreakMode"]
+- !private ["So6UIViewC", "numberOfLines"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "textAlignment"]
+- !private ["So6UIViewC", "textColor"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "clear"]
+- ["s26_ExpressibleByColorLiteralP", "white"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "accessibilityIdentifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "clear"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "font"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineBreakMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "numberOfLines"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textAlignment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "accessibilityIdentifier"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "backgroundColor"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "black"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clear"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "font"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lineBreakMode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "numberOfLines"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "textAlignment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "textColor"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "white"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "accessibilityIdentifier"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "font"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lineBreakMode"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "numberOfLines"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "textAlignment"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "textColor"]
+depends-nominal:
+- !private "Sa"
+- "22BetterSegmentedControl0abC7SegmentP"
+- !private "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "22BetterSegmentedControl12LabelSegmentC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- !private "So15NSLineBreakModeV"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "So15NSTextAlignmentV"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So7UILabelC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- "s26_ExpressibleByColorLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/UIKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/Headers/Public/BetterSegmentedControl/BetterSegmentedControl-umbrella.h"
+- "/Users/nadiamettioui/Desktop/PortoFolio 2020/WMSegmentControlAPP/Pods/Headers/Public/BetterSegmentedControl/BetterSegmentedControl.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cb07c7145b6cbe934b09f3dc1e41aa45"
