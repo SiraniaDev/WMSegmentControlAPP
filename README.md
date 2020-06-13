@@ -1,3 +1,7 @@
+[
+<img width="1280" alt="Capture d’écran 2020-06-13 à 09 37 00" src="https://user-images.githubusercontent.com/64682028/84563347-2275dc00-ad5b-11ea-8b89-9abf9e9b490d.png">
+](url)
+
 # WMSegmentControlAPP
 Using WMSegment control =>  100% Programmatically (Xcode 11.3.1, Swift 5)
 
